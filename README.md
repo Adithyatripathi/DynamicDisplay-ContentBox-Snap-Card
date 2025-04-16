@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # DynamicDisplay-ContentBox-Snap-Card
+=======
+DynamicDisplay-ContentBox-Snap-Card
+>>>>>>> ae161cae41353c024267747827e24e1f971f585c
 CardPanel is a lightweight and reusable React component designed to display various types of content in a visually appealing and flexible manner. Perfect for e-commerce apps, dating platforms, news sites, and portfolios, this component adapts seamlessly to any application, making it a great choice for dynamic content.
 =======
 # React + Vite
