@@ -1,5 +1,5 @@
 import Header from "./Header.jsx";
-import Footer from "./Footer.jsx"; // Fixed typo
+import Footer from "./Footert.jsx"; // Fixed typo
 import Content from "./Contenttemp.jsx";
 import ExtraCards from "./ExtraCards.jsx";
 

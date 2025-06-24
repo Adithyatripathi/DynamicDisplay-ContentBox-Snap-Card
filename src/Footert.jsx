@@ -9,7 +9,7 @@ function Footer() {
       </p>
       <p className="text-sm">
         Contact:{" "}
-        <a href="mailto:adithyatripathi@gmail.com">adithyatripathi@gmail.com</a>
+        <a href="mailto:adithyatripathi1279@gmail.com">adithyatripathi1279@gmail.com</a>
       </p>
     </footer>
   );
